@@ -1,0 +1,15 @@
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\bin\Debug\net6.0\Examples002_helloUser.exe
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\bin\Debug\net6.0\Examples002_helloUser.deps.json
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\bin\Debug\net6.0\Examples002_helloUser.runtimeconfig.json
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\bin\Debug\net6.0\Examples002_helloUser.dll
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\bin\Debug\net6.0\Examples002_helloUser.pdb
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.csproj.AssemblyReference.cache
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.AssemblyInfoInputs.cache
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.AssemblyInfo.cs
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.csproj.CoreCompileInputs.cache
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.dll
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\refint\Examples002_helloUser.dll
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.pdb
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\Examples002_helloUser.genruntimeconfig.cache
+C:\Users\lsien\Desktop\Лекции и практика семинары\Знакомство с языком C#\Практическая работа №1\Examples002_helloUser\obj\Debug\net6.0\ref\Examples002_helloUser.dll
