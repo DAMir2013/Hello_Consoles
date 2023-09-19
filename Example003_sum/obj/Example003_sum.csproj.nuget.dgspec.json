@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
+    "C:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Example003_sum\\Example003_sum.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
+    "C:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Example003_sum\\Example003_sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
-        "projectName": "Examples001_HelloConsole",
-        "projectPath": "c:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Example003_sum\\Example003_sum.csproj",
+        "projectName": "Example003_sum",
+        "projectPath": "C:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Example003_sum\\Example003_sum.csproj",
         "packagesPath": "C:\\Users\\lsien\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\lsien\\Desktop\\Лекции и практика семинары\\Знакомство с языком C#\\Практическая работа №1\\Example003_sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lsien\\AppData\\Roaming\\NuGet\\NuGet.Config"
